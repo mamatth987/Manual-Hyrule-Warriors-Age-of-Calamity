@@ -1,0 +1,1 @@
+# Manual-Hyrule-Warriors-Age-of-Calamity
