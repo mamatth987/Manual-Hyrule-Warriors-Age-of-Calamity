@@ -1,0 +1,586 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Zelda",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Link",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Impa",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Daruk",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mipha",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Revali",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Urbosa",
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "category": [
+        "Characters",
+        "Characters rdm"
+      ],
+      "name": "Hestu",
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Great Fairies",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Monk Maz Koshia",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sidon",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Teba",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Riju",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Yunobo",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Master Kohga",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "King Rhoam",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Terrako",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest",
+        "Post Future"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Calamity Ganon",
+      "category": [
+        "Characters",
+        "Characters rdm",
+        "Post Forest",
+        "Post Future"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Story Quests",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cooking",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unlock Services",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sheikah Sensor",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Improve All Allies",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Battle Support",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sheikah Runes",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Improve Services",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Divine Beasts",
+      "category": [
+        "Quests Unlock",
+        "Quests rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": "62",
+      "name": "Korok",
+      "category": [
+        "Collectibles",
+        "Korok rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Battle of Hyrule Field (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Road to the Ancient Lab (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mipha the Zora Princess (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Daruk the Goron Hero (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Revali the Rito Warrior (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Yiga Clan Attacks! (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Freeing Korok Forest (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Road Home Besieged (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Akkala Tower (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Destroy the Yiga Clan (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "When Courage Fails (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Calamity Strikes (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Water and Fire (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Air and Lightning (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Relentless as Waterfall (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Each Step Like Thunder (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Great Plateau (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "All Hyrule United (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Urbosa the Gerudo Chief (Done)",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Versus Calamity Ganon (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest",
+        "Post Future"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fairy Fountain Battlefield (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trial of the Ancients (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Terrako's Return (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest",
+        "Post Future"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Future of Hyrule (Done)",
+      "category": [
+        "Quests Unlock",
+        "Post Forest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Ruta",
+      "category": [
+        "Divine Beasts",
+        "Divine rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Rudania",
+      "category": [
+        "Divine Beasts",
+        "Divine rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Naboris",
+      "category": [
+        "Divine Beasts",
+        "Divine rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Medoh",
+      "category": [
+        "Divine Beasts",
+        "Divine rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": "5",
+      "name": "5 Terrako Components",
+      "category": [
+        "Collectibles",
+        "Post Forest",
+        "Post Future",
+        "Terrako rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "4 Terrako Components",
+      "category": [
+        "Collectibles",
+        "Post Forest",
+        "Post Future",
+        "Terrako rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "3 Terrako Components",
+      "category": [
+        "Collectibles",
+        "Post Forest",
+        "Post Future",
+        "Terrako rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "2 Terrako Components",
+      "category": [
+        "Collectibles",
+        "Post Forest",
+        "Post Future",
+        "Terrako rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "1 Terrako Component",
+      "category": [
+        "Collectibles",
+        "Post Forest",
+        "Post Future",
+        "Terrako rdm"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Material",
+      "category": [
+        "Quests Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count" : "24",
+      "name" : "Ethereal Stone",
+      "category" : [
+        "Collectibles",
+        "Ethereal rdm"
+      ],
+      "progression" : true
+    }
+  ]
+}

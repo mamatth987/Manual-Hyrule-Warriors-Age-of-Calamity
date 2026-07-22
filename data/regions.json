@@ -1,0 +1,243 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Battle Field": {
+    "connects_to": [
+      "Post Battle Field",
+      "Road Ancient Lab"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Post Battle Field": {
+    "connects_to": [],
+    "requires": "|The Battle of Hyrule Field (Done)|"
+  },
+  "Road Ancient Lab": {
+    "connects_to": [
+      "Post Road Ancient Lab",
+      "Mipha_q",
+      "Daruk_q",
+      "Revali_q",
+      "Urbosa_q"
+    ],
+    "requires": "|The Battle of Hyrule Field (Done)| AND |Progressive Story Quests:1|"
+  },
+  "Post Road Ancient Lab": {
+    "connects_to": [],
+    "requires": "|Road to the Ancient Lab (Done)|"
+  },
+  "Mipha_q": {
+    "connects_to": [
+      "Post Mipha",
+      "Yiga Attacks"
+    ],
+    "requires": "|Road to the Ancient Lab (Done)| AND |Progressive Story Quests:2| AND {OptOne(|Mipha|)}"
+  },
+  "Daruk_q": {
+    "connects_to": [
+      "Post Daruk",
+      "Yiga Attacks"
+    ],
+    "requires": "|Road to the Ancient Lab (Done)| AND |Progressive Story Quests:2| AND {OptOne(|Daruk|)}"
+  },
+  "Revali_q": {
+    "connects_to": [
+      "Post Revali",
+      "Yiga Attacks"
+    ],
+    "requires": "|Road to the Ancient Lab (Done)| AND |Progressive Story Quests:2|"
+  },
+  "Urbosa_q": {
+    "connects_to": [
+      "Post Urbosa",
+      "Yiga Attacks"
+    ],
+    "requires": "|Road to the Ancient Lab (Done)| AND |Progressive Story Quests:2| AND {OptOne(|Urbosa|)}"
+  },
+  "Post Mipha": {
+    "connects_to": [],
+    "requires": "|Mipha the Zora Princess (Done)|"
+  },
+  "Post Daruk": {
+    "connects_to": [],
+    "requires": "|Daruk the Goron Hero (Done)|"
+  },
+  "Post Revali": {
+    "connects_to": [],
+    "requires": "|Revali the Rito Warrior (Done)|"
+  },
+  "Post Urbosa": {
+    "connects_to": [],
+    "requires": "|Urbosa the Gerudo Chief (Done)|"
+  },
+  "Yiga Attacks": {
+    "connects_to": [
+      "Post Yiga Attacks",
+      "Korok Forest"
+    ],
+    "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Daruk the Goron Hero (Done)| AND |Mipha the Zora Princess (Done)| AND |Progressive Story Quests:3|"
+  },
+  "Post Yiga Attacks": {
+    "connects_to": [],
+    "requires": "|The Yiga Clan Attacks! (Done)|"
+  },
+  "Korok Forest": {
+    "connects_to": [
+      "Post Korok Forest",
+      "Besieged",
+      "Goal 1"
+    ],
+    "requires": "|The Yiga Clan Attacks! (Done)| AND |Progressive Story Quests:4| and {OptOne(|Hestu|)}"
+  },
+  "Post Korok Forest": {
+    "connects_to": [],
+    "requires": "|Freeing Korok Forest (Done)|"
+  },
+  "Goal 1": {
+    "connects_to": [],
+    "requires" : ""
+  },
+  "Besieged": {
+    "connects_to": [
+      "Post Besieged",
+      "Akkala"
+    ],
+    "requires": "|Freeing Korok Forest (Done)| AND |Progressive Story Quests:5|"
+  },
+  "Post Besieged": {
+    "connects_to": [],
+    "requires": "|The Road Home Besieged (Done)|"
+  },
+  "Akkala": {
+    "connects_to": [
+      "Post Akkala",
+      "Destroy Yiga"
+    ],
+    "requires": "|The Road Home Besieged (Done)| AND |Progressive Story Quests:6|"
+  },
+  "Post Akkala": {
+    "connects_to": [],
+    "requires": "|Akkala Tower (Done)|"
+  },
+  "Destroy Yiga": {
+    "connects_to": [
+      "Post Destroy Yiga",
+      "Courage"
+    ],
+    "requires": "|Akkala Tower (Done)| AND |Progressive Story Quests:7|"
+  },
+  "Post Destroy Yiga": {
+    "connects_to": [],
+    "requires": "|Destroy the Yiga Clan (Done)|"
+  },
+  "Courage": {
+    "connects_to": [
+      "Post Courage",
+      "Calamity"
+    ],
+    "requires": "|Destroy the Yiga Clan (Done)| AND |Progressive Story Quests:8|"
+  },
+  "Post Courage": {
+    "connects_to": [],
+    "requires": "|When Courage Fails (Done)|"
+  },
+  "Calamity": {
+    "connects_to": [
+      "Post Calamity",
+      "Water Fire",
+      "Air Lightning"
+    ],
+    "requires": "|When Courage Fails (Done)| AND |Progressive Story Quests:9|"
+  },
+  "Post Calamity": {
+    "connects_to": [],
+    "requires": "|Calamity Strikes (Done)|"
+  },
+  "Water Fire": {
+    "connects_to": [
+      "Post Water Fire",
+      "Relentless"
+    ],
+    "requires": "|Calamity Strikes (Done)| AND |Progressive Story Quests:10| AND {OptOne(|Yunobo|)} AND {OptOne(|Sidon|)}"
+  },
+  "Air Lightning": {
+    "connects_to": [
+      "Post Air Lightning",
+      "Relentless"
+    ],
+    "requires": "|Calamity Strikes (Done)| AND |Progressive Story Quests:10| AND {OptOne(|Riju|)} AND {OptOne(|Teba|)}"
+  },
+  "Post Water Fire": {
+    "connects_to": [],
+    "requires": "|Water and Fire (Done)|"
+  },
+  "Post Air Lightning": {
+    "connects_to": [],
+    "requires": "|Air and Lightning (Done)|"
+  },
+  "Relentless": {
+    "connects_to": [
+      "Post Relentless",
+      "Step"
+    ],
+    "requires": "|Water and Fire (Done)| AND |Air and Lightning (Done)| AND |Progressive Story Quests:11|"
+  },
+  "Post Relentless": {
+    "connects_to": [],
+    "requires": "|Relentless as Waterfall (Done)|"
+  },
+  "Step": {
+    "connects_to": [
+      "Post Step",
+      "Plateau"
+    ],
+    "requires": "|Relentless as Waterfall (Done)| AND |Progressive Story Quests:12|"
+  },
+  "Post Step": {
+    "connects_to": [],
+    "requires": "|Each Step Like Thunder (Done)|"
+  },
+  "Plateau": {
+    "connects_to": [
+      "Post Plateau",
+      "United"
+    ],
+    "requires": "|Each Step Like Thunder (Done)| AND |Progressive Story Quests:13|"
+  },
+  "Post Plateau": {
+    "connects_to": [],
+    "requires": "|The Great Plateau (Done)|"
+  },
+  "United": {
+    "connects_to": [
+      "Post United",
+      "Future"
+    ],
+    "requires": "|The Great Plateau (Done)| AND |Progressive Story Quests:14|"
+  },
+  "Post United": {
+    "connects_to": [],
+    "requires": "|All Hyrule United (Done)|"
+  },
+  "Future": {
+    "connects_to": [
+      "Post Future",
+      "Goal 2"
+    ],
+    "requires": "|All Hyrule United (Done)| AND |Progressive Story Quests:15|"
+  },
+  "Goal 2": {
+    "connects_to": [],
+    "requires" : ""
+  },
+  "Post Future": {
+    "connects_to": [
+      "Goal 3"
+    ],
+    "requires": "|The Future of Hyrule (Done)|"
+  },
+  "Goal 3": {
+    "connects_to": [],
+    "requires" : ""
+  }
+}

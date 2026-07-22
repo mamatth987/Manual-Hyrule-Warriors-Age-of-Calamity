@@ -1,0 +1,97 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "character_randomizer" : {
+            "display_name" : "Shuffle Characters",
+            "description" : ["Add all 20 characters to the item pool",
+                             "You start only with Link and Impa",
+                             "If you don't have the item for the character, don't use him or her"
+                        ],
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Randomization"
+        },
+        "divine_beast_randomizer" : {
+            "display_name" : "Shuffle Divine Beasts",
+            "description" : "Add the 4 divine beasts in the item pool",
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Randomization"
+        },
+        "quests_unlocks_randomizer" : {
+            "display_name" : "Shuffle Quests Unlocks",
+            "description" : ["Add items to unlock the quests in the item pool",
+                             "The quests for the blacksmith and the military are only those which are not affected by this setting"
+                        ],
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Randomization"
+        },
+        "koroks_randomizer" : {
+            "display_name" : "Shuffle Koroks",
+            "description" : ["Add the koroks in the item pool and the 134 koroks locations in main quests and challenges",
+                             "If not activated, the quests which needs koroks won't be included"
+                        ],
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Randomization"
+        },
+        "terrako_component_randomizer" : {
+            "display_name" : "Shuffle Terrako's components",
+            "description" : ["Add the Terrako's Compponents in the item pool",
+                             "If activated, the quest to get Terrako will be accessible when you will have all of them"
+                        ],
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Randomization"
+        },
+        "ethereal_stones_randomizer" : {
+            "display_name" : "Shuffle ethereal stones",
+            "description" : ["Add the Ethereal Stones in the item pool",
+                             "If activated, the quests which needs those stones will be locked until you get enough stones.",
+                             "If not, the quests will be accessible when you get to them"
+                        ],
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Randomization"
+        },
+        "post_forest" : {
+            "display_name" : "Include post freeing korok forest checks",
+            "description" : "Only change if goal is future of hyrule or hateno fort siege",
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Location options",
+            "hidden" : true
+        },
+        "post_future" : {
+            "display_name" : "Include post future of hyrule checks",
+            "description" : "Only change if goal is hateno fort siege",
+            "type" : "Toggle",
+            "default" : false,
+            "group" : "Location options",
+            "hidden" : true
+        }
+    }
+        
+}

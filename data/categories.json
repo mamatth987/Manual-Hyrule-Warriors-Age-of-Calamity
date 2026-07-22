@@ -1,0 +1,50 @@
+{
+    "Characters rdm" : {
+        "yaml_option" : [
+            "character_randomizer"
+        ],
+        "hidden" : true
+    },
+    "Divine rdm" : {
+        "yaml_option" : [
+            "divine_beast_randomizer"
+        ],
+        "hidden" : true
+    },
+    "Quests rdm" : {
+        "yaml_option" : [
+            "quests_unlocks_randomizer"
+        ],
+        "hidden" : true
+    },
+    "Korok rdm" : {
+        "yaml_option" : [
+            "koroks_randomizer"
+        ],
+        "hidden" : true
+    },
+    "Terrako rdm" : {
+        "yaml_option" : [
+            "terrako_component_randomizer"
+        ],
+        "hidden" : true
+    },
+    "Ethereal rdm" : {
+        "yaml_option" : [
+            "ethereal_stones_randomizer"
+        ],
+        "hidden" : true 
+    },
+    "Post Forest" : {
+        "yaml_option" : [
+            "post_forest"
+        ],
+        "hidden" : true
+    },
+    "Post Future" : {
+        "yaml_option" : [
+            "post_future"
+        ],
+        "hidden" : true
+    }
+}

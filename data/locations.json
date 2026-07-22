@@ -1,0 +1,6402 @@
+{
+    "data": [
+        {
+            "category": [
+                "Chapter 1 - Main Quests"
+            ],
+            "requires": "",
+            "region": "Battle Field",
+            "name": "The Battle of Hyrule Field",
+            "place_item": [
+                "The Battle of Hyrule Field (Done)"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab",
+            "region": "Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Road to the Ancient Lab (Done)"
+            ]
+        },
+        {
+            "name": "Mipha, the Zora Princess",
+            "region": "Mipha_q",
+            "category": [
+                "Chapter 2 - Main Quests"
+            ],
+            "requires": "{OptOne(|Vah Ruta|)}",
+            "place_item": [
+                "Mipha the Zora Princess (Done)"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero",
+            "region": "Daruk_q",
+            "category": [
+                "Chapter 2 - Main Quests"
+            ],
+            "requires": "{OptOne(|Vah Rudania|)}",
+            "place_item": [
+                "Daruk the Goron Hero (Done)"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior",
+            "region": "Revali_q",
+            "category": [
+                "Chapter 2 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Revali the Rito Warrior (Done)"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief",
+            "region": "Urbosa_q",
+            "category": [
+                "Chapter 2 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Urbosa the Gerudo Chief (Done)"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks!",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "The Yiga Clan Attacks! (Done)"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest",
+            "region": "Korok Forest",
+            "category": [
+                "Chapter 3 - Main Quests"
+            ],
+            "requires": "{OptOne(|Vah Medoh|)}",
+            "place_item": [
+                "Freeing Korok Forest (Done)"
+            ]
+        },
+        {
+            "name": "The Road Home, Besieged",
+            "region": "Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "The Road Home Besieged (Done)"
+            ]
+        },
+        {
+            "region": "Akkala",
+            "name": "Akkala Tower",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Akkala Tower (Done)"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan",
+            "region": "Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Destroy the Yiga Clan (Done)"
+            ]
+        },
+        {
+            "name": "When Courage Fails",
+            "region": "Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "When Courage Fails (Done)"
+            ]
+        },
+        {
+            "name": "Calamity Strikes",
+            "region": "Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Calamity Strikes (Done)"
+            ]
+        },
+        {
+            "name": "Water and Fire",
+            "region": "Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Water and Fire (Done)"
+            ]
+        },
+        {
+            "name": "Air and Lightning",
+            "region": "Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Air and Lightning (Done)"
+            ]
+        },
+        {
+            "name": "Relentless as Waterfall",
+            "region": "Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Relentless as Waterfall (Done)"
+            ]
+        },
+        {
+            "name": "Each Step Like Thunder",
+            "region": "Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "Each Step Like Thunder (Done)"
+            ]
+        },
+        {
+            "name": "The Great Plateau",
+            "region": "Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "The Great Plateau (Done)"
+            ]
+        },
+        {
+            "name": "All Hyrule, United",
+            "region": "United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "All Hyrule United (Done)"
+            ]
+        },
+        {
+            "name": "The Future of Hyrule",
+            "region": "Future",
+            "victory": false,
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Main Quests"
+            ],
+            "requires": "",
+            "place_item": [
+                "The Future of Hyrule (Done)"
+            ]
+        },
+        {
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ],
+            "name": "The Battle of Hyrule Field Korok 1",
+            "region": "Battle Field",
+            "requires": ""
+        },
+        {
+            "name": "The Battle of Hyrule Field Korok 2",
+            "region": "Battle Field",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "The Battle of Hyrule Field Korok 3",
+            "region": "Battle Field",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "The Battle of Hyrule Field Korok 4",
+            "region": "Battle Field",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "The Battle of Hyrule Field Korok 5",
+            "region": "Battle Field",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "The Battle of Hyrule Field Korok 6",
+            "region": "Battle Field",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "The Battle of Hyrule Field Korok 7",
+            "region": "Battle Field",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab Korok 1",
+            "region": "Road Ancient Lab",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab Korok 2",
+            "region": "Road Ancient Lab",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab Korok 3",
+            "region": "Road Ancient Lab",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab Korok 4",
+            "region": "Road Ancient Lab",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab Korok 5",
+            "region": "Road Ancient Lab",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Road to the Ancient Lab Korok 6",
+            "region": "Road Ancient Lab",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 1 - Koroks"
+            ]
+        },
+        {
+            "name": "Mipha, the Zora Princess Korok 1",
+            "region": "Mipha_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Mipha, the Zora Princess Korok 2",
+            "region": "Mipha_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Mipha, the Zora Princess Korok 3",
+            "region": "Mipha_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Mipha, the Zora Princess Korok 4",
+            "region": "Mipha_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 1",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 2",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 3",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 4",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 5",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 6",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 7",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Daruk, the Goron Hero Korok 8",
+            "region": "Daruk_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 1",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 2",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 3",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 4",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 5",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 6",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 7",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Revali, the Rito Warrior Korok 8",
+            "region": "Revali_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 1",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 2",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 3",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 4",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 5",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 6",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 7",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 8",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Urbosa, the Gerudo Chief Korok 9",
+            "region": "Urbosa_q",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 1",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 2",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 3",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 4",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 5",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 6",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 7",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "The Yiga Clan Attacks Korok 8",
+            "region": "Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 1",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 2",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 3",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 4",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 5",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 6",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 7",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 8",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 9",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Freeing Korok Forest Korok 10",
+            "region": "Korok Forest",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "The Road Home, Besieged Korok 1",
+            "region": "Besieged",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "The Road Home, Besieged Korok 2",
+            "region": "Besieged",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "The Road Home, Besieged Korok 3",
+            "region": "Besieged",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Koroks"
+            ]
+        },
+        {
+            "name": "Akkala Tower Korok 1",
+            "region": "Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Akkala Tower Korok 2",
+            "region": "Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Akkala Tower Korok 3",
+            "region": "Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Akkala Tower Korok 4",
+            "region": "Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Akkala Tower Korok 5",
+            "region": "Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 1",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 2",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 3",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 4",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 5",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 6",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 7",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Destroy the Yiga Clan! Korok 8",
+            "region": "Destroy Yiga",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "When Courage Fails Korok 1",
+            "region": "Courage",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "When Courage Fails Korok 2",
+            "region": "Courage",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "When Courage Fails Korok 3",
+            "region": "Courage",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "When Courage Fails Korok 4",
+            "region": "Courage",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "When Courage Fails Korok 5",
+            "region": "Courage",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 1",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 2",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 3",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 4",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 5",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 6",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Calamity Strikes Korok 7",
+            "region": "Calamity",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Water And Fire Korok 1",
+            "region": "Water Fire",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Water And Fire Korok 2",
+            "region": "Water Fire",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Water And Fire Korok 3",
+            "region": "Water Fire",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Air And Lightning Korok 1",
+            "region": "Air Lightning",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Air And Lightning Korok 2",
+            "region": "Air Lightning",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Air And Lightning Korok 3",
+            "region": "Air Lightning",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Air And Lightning Korok 4",
+            "region": "Air Lightning",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Air And Lightning Korok 5",
+            "region": "Air Lightning",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Relentless as a Waterfall Korok 1",
+            "region": "Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Relentless as a Waterfall Korok 2",
+            "region": "Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Relentless as a Waterfall Korok 3",
+            "region": "Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Relentless as a Waterfall Korok 4",
+            "region": "Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Relentless as a Waterfall Korok 5",
+            "region": "Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Relentless as a Waterfall Korok 6",
+            "region": "Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Each Step Like Thunder Korok 1",
+            "region": "Step",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Each Step Like Thunder Korok 2",
+            "region": "Step",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Each Step Like Thunder Korok 3",
+            "region": "Step",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Each Step Like Thunder Korok 4",
+            "region": "Step",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 1",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 2",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 3",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 4",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 5",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 6",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Great Plateau Korok 7",
+            "region": "Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "All Hyrule, United Korok 1",
+            "region": "United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "All Hyrule, United Korok 2",
+            "region": "United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "All Hyrule, United Korok 3",
+            "region": "United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "All Hyrule, United Korok 4",
+            "region": "United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "All Hyrule, United Korok 5",
+            "region": "United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "All Hyrule, United Korok 6",
+            "region": "United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Future of Hyrule Korok 1",
+            "region": "Future",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Future of Hyrule Korok 2",
+            "region": "Future",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "The Future of Hyrule Korok 3",
+            "region": "Future",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Mipha's Training Korok",
+            "region": "Post Mipha",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Cross the Hebra Mountains Korok",
+            "region": "Post Yiga Attacks",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Chapter 2 - Koroks"
+            ]
+        },
+        {
+            "name": "Anti_Ice Training II Korok",
+            "region": "Post Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Innkeeper's Request Korok",
+            "region": "Post Akkala",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Koroks"
+            ]
+        },
+        {
+            "name": "Winged Escort Korok",
+            "region": "Post Air Lightning",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Koroks"
+            ]
+        },
+        {
+            "name": "Defend Zora's Domain Korok",
+            "region": "Post Relentless",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Koroks"
+            ]
+        },
+        {
+            "name": "Elemental Uproar Korok 1",
+            "region": "Post United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Elemental Uproar Korok 2",
+            "region": "Post United",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Polishing His Technique Korok",
+            "region": "Post Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Hair-Width Trial: Expert+ Korok",
+            "region": "Post Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Hunting Partners Korok",
+            "region": "Post Plateau",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Defend Hyrule Castle Korok",
+            "region": "Post Future",
+            "requires": "",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Koroks"
+            ]
+        },
+        {
+            "name": "Mastering Remote Bombs",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Daruk's Training",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Urbosa's Training",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Lizalfos Infestation",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Mipha's Training",
+            "region": "Post Mipha",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Revali's Training",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Explosive--Handle With Care",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Mastering Cryonis",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Challenges"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| OR |Revali the Rito Warrior (Done)| OR |Mipha the Zora Princess (Done)| OR |Daruk the Goron Hero (Done)| "
+        },
+        {
+            "name": "Anti-Flame Training: I",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Lightning Training: I",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Ice Training: I",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Link: One-Handed Weapons",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)| AND {OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Link: Two-Handed Weapons",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "name": "Link: Spears",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "name": "Mastering Magnesis",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Challenges"
+            ],
+            "requires": "(|Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)|) OR (|Revali the Rito Warrior (Done)| AND |Urbosa the Gerudo Chief (Done)|) OR (|Revali the Rito Warrior (Done)| AND |Daruk the Goron Hero (Done)|) OR (|Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|) OR (|Mipha the Zora Princess (Done)| AND |Urbosa the Gerudo Chief (Done)|) OR (|Urbosa the Gerudo Chief (Done)| AND |Daruk the Goron Hero (Done)|)"
+        },
+        {
+            "name": "Leave None Behind",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Zelda's Training",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Mastering Stasis",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "(|Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|) OR (|Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Urbosa the Gerudo Chief (Done)|) OR (|Revali the Rito Warrior (Done)| AND |Urbosa the Gerudo Chief (Done)| AND |Daruk the Goron Hero (Done)|) OR (|Urbosa the Gerudo Chief (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|)"
+        },
+        {
+            "name": "Daily Drills: Rito",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Impa's Training",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hair-Width Trial: Beginner",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Breach of Demise",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Cross the Hebra Mountains",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Cross the Volcano",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Daily Drills: Zora",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Daily Drills: Goron",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fish Out of Water",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hestu's Training",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Great Fairy Training",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": "|Fairy Fountain Battlefield (Done)| AND {OptOne(|Great Fairies|)}"
+        },
+        {
+            "name": "Messenger's Escort",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Through the Desert",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Ice Training: II",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Innkeeper's Request",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Swift Spear of the Zora",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fairy Fountain: Grassy Plains",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Mountain Rescue",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Echoing Footsteps",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Flame Training: II",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Daily Drills: Hyrule",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fierce Gale of the Rito",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Mighty Thunder of the Gerudo",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "region": "Post Besieged",
+            "name": "Outpost Defenders",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fairy Fountain: Deep Snows",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Lightning Training: II",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Royal Escort",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Daily Drills: Gerudo",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Strike It Rich",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Molduga Sighting",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Tough Bulwark of the Gorons",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fairy Fountain: Desert Sands",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hair-Width Trial: Intermediate",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fairy Fountain: Battlefield",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": "",
+            "place_item": [
+                "Fairy Fountain Battlefield (Done)"
+            ]
+        },
+        {
+            "name": "Coliseum: Beginner",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Monk's Training",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": "|Trial of the Ancients (Done)| and {OptOne(|Monk Maz Koshia|)}"
+        },
+        {
+            "name": "A Feast for Wizzrobes",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Defend the Sands!",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Escape the Lost Woods",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Win Back the Mighty Bananas!",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Show of Strength",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Chief-of-the-Dunes Battle",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fruit for the Princess!",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "In the Clutches of the Yiga!",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Trial of the Ancients",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Challenges"
+            ],
+            "requires": "",
+            "place_item": [
+                "Trial of the Ancients (Done)"
+            ]
+        },
+        {
+            "name": "Territorial Battle",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Stronger Yet",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Coliseum: Intermediate",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Teba's Training",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Riju's Training",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Flame Training: III",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "Anti-Lightning Training: III",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "Sidon's Training",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Yunobo's Training",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fleeing the Weather",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Forest Dance Festival",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "Anti-Ice Training: III",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "The Chief-in-Training",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Winged Escort",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Flame & Lightning Training",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "Chapter 5 - Challenges",
+            "category": [
+                "Lv.41 - Lv.50 Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "Escorting the Injured",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Like Grains of Sand",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Flame and Ice Training",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "The So-Called Knight",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Apprentice Yunobo",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Questionable Escort Mission",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Zelda's Training: Bows",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Lost Treasures",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Defend Zora's Domain",
+            "region": "Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fire Hazards",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Master Kohga's Training",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Generational Conflict",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Elemental Uproar",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Impa's Damage Control",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fight Lightning with Lightning",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Defend the Spring of Courage",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Hidden Treasure",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "King Rhoam's Training",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Nap Quest!",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Sidon vs. the Octoroks",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Anti-Element Training",
+            "category": [
+                "Chapter 5 - Challenges",
+                "Post Forest"
+            ],
+            "requires": "|Air and Lightning (Done)| AND |Water and Fire (Done)|"
+        },
+        {
+            "name": "Goron-Style Barbecue",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Wisdom of the Storm",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hero of the Rito",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "King's Escort",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Sibling Bonds",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hunting for Gemstones",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Polishing His Techniques",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Defend Akkala Citadel",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hair-Width Trial: Expert",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Reclaim the Land",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Guardians Counterattack",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Gerudo Fury",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Coliseum: Expert",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Footsteps of the Giant",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Zora Mettle",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Rito Discipline",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Terrako's Training",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Terrako|)} AND |Terrako's Return (Done)| "
+        },
+        {
+            "name": "Ganon's Training",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Invading Terrors",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hair-Width Trail: Expert+",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Taming the Savage Linel",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Master Kohga Chronicles!",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Goron Spirit",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Rampaging Malice",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hunting Partners",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Defend Hyrule Castle",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Shadow of Ganon",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Guardian Graveyard",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "A Royal Investigation",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hyrule's Greatest Warrior",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Guardian Showdown",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Terrako|)} AND |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Heart's Escort",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Harbingers of the Calamity",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Miss Vai Battle Pageant",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Defeating Destiny",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Blight Ganons Resurgent",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Terrako|)} AND |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Deep Woods, Deep Shadows",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Remnants of the Calamity",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Hold The Line",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "True Strength",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Mysterious Arrivals",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Versus Astor",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Versus Harbinger Ganon",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Versus Calamity Ganon",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "",
+            "place_item": [
+                "Versus Calamity Ganon (Done)"
+            ]
+        },
+        {
+            "name": "The Fiercest of Foes",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "|Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "The Heart of the Calamity",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "|Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "The Siege of Fort Hateno",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "|Versus Calamity Ganon (Done)|"
+        },
+        {
+            "region": "Post Future",
+            "name": "Unnatural Disaster",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "|Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Might of a Divine Beast",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Ruta|)}"
+        },
+        {
+            "name": "Volcanic Defense",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Rudania|)}"
+        },
+        {
+            "name": "Protector of the Forest",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Medoh|)}"
+        },
+        {
+            "name": "Persue the Yiga Clan!",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Naboris|)} AND {OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Defending Cephla Lake",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Ruta|)}"
+        },
+        {
+            "name": "Volcanic Might",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Rudania|)}"
+        },
+        {
+            "name": "Like The Wind",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Medoh|)}"
+        },
+        {
+            "region": "Post Step",
+            "name": "Two Chiefs",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Naboris|)}"
+        },
+        {
+            "name": "Molduga Deluge",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Naboris|)}"
+        },
+        {
+            "name": "The Power of Three",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Medoh|)}"
+        },
+        {
+            "name": "A Fiery Reckoning",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Rudania|)}"
+        },
+        {
+            "region": "Post Future",
+            "name": "Through the Storm",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Challenges"
+            ],
+            "requires": "{OptOne(|Vah Ruta|)}"
+        },
+        {
+            "name": "Hyrule Swordfighting Academy",
+            "region": "Post Battle Field",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Keeping the Village Peace",
+            "region": "Post Battle Field",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Blade that Pierces the Eye",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Heartfelt Thanks",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Making a Monster",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Study the Blade",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "name": "The Hateno Defense Squad",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "name": "The Volunteer Army",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "region": "Post Akkala",
+            "name": "The Treasure Hunter's Technique",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "region": "Post Relentless",
+            "name": "Refuel Motivation",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Spear-ited Combatant",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "name": "Teach a Hylian to Fish",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)|"
+        },
+        {
+            "name": "Mount Taran's Solitary Masters",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Training Ground Pest Problem",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Training Ground Upgrade",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Proof of Sword Mastery",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:6|)}"
+        },
+        {
+            "name": "Full Bellies Fight Better",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:129|)}"
+        },
+        {
+            "name": "A Strike to Pierce Stone",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:115|)}"
+        },
+        {
+            "name": "A Well-Tended Goddess",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "A Flower-Adorned Goddess",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Moss-Covered Goddess",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Frozen-Solid Goddess",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Frog Side Effects",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Knight's Gauntlet",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Traps for Kakariko Village",
+            "region": "Post Battle Field",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "To Bring a Village Together",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Village Training Secrets",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Just the Right Light",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Kakariko Village Dojo",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Opening the Mind's Eye",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:110|)}"
+        },
+        {
+            "name": "Kakariko's Best Babysitter",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "(|Urbosa the Gerudo Chief (Done)| OR |Revali the Rito Warrior (Done)| OR |Mipha the Zora Princess (Done)| OR |Daruk the Goron Hero (Done)| )AND |Unlock Services|"
+        },
+        {
+            "name": "The Lights of Home",
+            "region": "Post Battle Field",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Great Cucco Escape",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Mission of the Sheikah",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Helping out at Hateno Posture",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Plum Tuckered Out",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Frontiers of Knowledge",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Preparing the Field Work",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Soothing Tensions",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Research Funding",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "King Dorephan's Defenses",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Bolstering Goron City",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Joint Training with the Rito",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Joint Training with the Gerudo",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "A Modest Celebration",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "An Otherworldly Guardian",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)} AND {OptOne(|Ethereal Stone:93|)}"
+        },
+        {
+            "name": "Giving Peace of Mind",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)} AND {OptOne(|Ethereal Stone:68|)}"
+        },
+        {
+            "name": "A Princess in Distress",
+            "region": "Post Mipha",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)} AND {OptOne(|Zelda|)}"
+        },
+        {
+            "name": "A Buffet of Delicacies",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "In Case of Emergency...",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Research Materials",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Living Things of Hyrule",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Eternal Blooms",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Zelda|)}"
+        },
+        {
+            "name": "Bounding Across the Waves",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Climbing the Waterfall",
+            "region": "Post Mipha",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Zora Who Wouldn't Swim ",
+            "region": "Post Mipha",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Diving Safety",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Diving as Battle Training",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Armor that Shines Like a Jewel",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:100|)}"
+        },
+        {
+            "name": "A Fruitful Offering",
+            "region": "Post Mipha",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Lauding a Champion",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Feeding the Laborers",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Imported Goods",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "To the Zora Voe and Vai",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Armor for Whom?",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Battle Against the Heat",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Playing with Fire",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Playing Cucco",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "These Muscles of Mine(rs)",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "To Stand atop of Lava",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Perfectly Honed Body",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:73|)}"
+        },
+        {
+            "name": "A Goron-Style Massage",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "An Irresistible Aroma",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Creative Fires",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fine Goron Dining",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Gut-Check Challenge",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Enduring Death Mountain",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Upgrading the Flight Range",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Learning to Become the Wind",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "A Fly-by-Night Operation",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "The Rito Flying Tournament",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "A Wish for a Fishy Dish",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)} AND {OptOne(|Revali|)}"
+        },
+        {
+            "name": "The Poem-Parsing Traveler",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)} AND {OptOne(|Ethereal Stone:88|)}"
+        },
+        {
+            "name": "Soured Honeymoon",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Beyond the Wall of Thunder",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "The Lodge at Hebra Trailhead",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "An Offering to the Rito Goddess",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Across Tanagar Canyon",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Flight Across Hyrule",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Revali|)}"
+        },
+        {
+            "name": "Urbosa's Desert Training",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Conductive to Conducting",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Duel on Ploymus Mountain",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Shocking Design Choices",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Stealth Mission",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Tyrant of the Sand Sea",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:149|)}"
+        },
+        {
+            "name": "Conducting an Experiment",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Colorful Kara Kara Bazaar",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Sweet Desert Garden",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Summer Breeze Festival",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Spa's New Service",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Gerudo's Nail Artistry",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Pinwheel, No-Spinwheel",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Frown-Reversal Magic",
+            "region": "Post Korok Forest",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Korok:1|)}"
+        },
+        {
+            "name": "Out of the Woods",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Leaf on the Breeze",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Think Yourself Clever?",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Korok Who Cried Monster",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:134|)}"
+        },
+        {
+            "name": "Otherworldly Objects",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:8|)}"
+        },
+        {
+            "name": "The Mushroom Shop",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Finding Courage",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Helping With Heights",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "It's Shakala Time",
+            "region": "Post Akkala",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Korok:23|)}"
+        },
+        {
+            "name": "Party of the Leafy Spirits",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Sidon's Waterfall Workshop",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Chasing Mipha",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Scouting the Training Ground",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "For The Future",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Training at Lulu lake",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Gift from the Sky",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:105|)}"
+        },
+        {
+            "name": "The Zora Researcher",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Thirst for the Desert",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Lightning-Proof Luncheon",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "All the Heartiest Seafood",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Blessing of the Rains",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Feast or Fiction",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Goron Rations",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "To Eat a Stone Pebblit",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Crucible of Endurance",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "What Do Guardians Taste Like?",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Not a Light Meal",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Eating a Varied Diet",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": " {OptOne(|Ethereal Stone:78|)}"
+        },
+        {
+            "name": "The Rock-Hard Grill",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Defend the Goron Hot Springs",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Goron Wrestling Tournament",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Rock Hurler",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Daruk's Boot Camp",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fighting Fire With...",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The White Bird of Talonto Peak",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Flight Training at Lake Totori",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Strongest String",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "At All Hours",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Rito Rations",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Remodeling the Flight Range",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": " {OptOne(|Ethereal Stone:83|)}"
+        },
+        {
+            "name": "Truffle Hunting in the Forest",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Faster and Farther Than Anyone",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "A Surprise Reward",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Cultivating Warm Safflina",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Teba's Training Retreat",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Flight-Range Field Trip",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Missing Sand Seals",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Quality Time with Patricia",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:144|)}"
+        },
+        {
+            "name": "The Sapphire Seal Pageant",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Fruitful Advice",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Seal the DealTreats for Patricia",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Treats for Patricia",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "\"Voe and You\" Is in Session",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Rebuilding Lipstique",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "My Beloved Yellow",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Wonders of Chuchu Jelly",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Surviving the Gerudo Highlands",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Surveying the Desert Ruins",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Spicy Asceticism",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Chilly Asceticism",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Hoppy Asceticism",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Hungry Asceticism",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Big Moves to Boost Morale",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "No Matter the Cost",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)} AND {OptOne(|Ethereal Stone:120|)}"
+        },
+        {
+            "name": "Market Apeel",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Bonananza",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "An Unlikely Passion",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "A Thief in Our Midst",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Veggie Vigor",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "From the Ground Up",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Master Kohga|)}"
+        },
+        {
+            "name": "Woodcutter's Discipline",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Perils of Mount Hylia",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "For the Future of Hyrule",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "The King's Secret Technique",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "A Flower Fit for a King",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "A King Serves His People",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)} AND {OptOne(|Ethereal Stone:152|)}"
+        },
+        {
+            "name": "Scars of the Calamity",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Medicine is the Best Medicine",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "The Royal Treasury",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Parental Support",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Royal Inspection",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Strategic Fortifications",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|King Rhoam|)}"
+        },
+        {
+            "name": "Luminous Earrings",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Glorious Ring",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Stunning Bracelet",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Superb Necklace",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Shimmering Horseshoe",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "It's Raining Rupees",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "No Stone Unturned",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Encouraging Tourism",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Dusty Desert Road",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Only the Best",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Lushify the Spring",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Never Enough Fairies",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Great Fairies|)} and |Fairy Fountain Battlefield (Done)|"
+        },
+        {
+            "name": "Offering Help on the Road",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Trial of Monsters",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": " {OptOne(|Ethereal Stone:13|)}"
+        },
+        {
+            "name": "The Trial of Stones",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:20|)}"
+        },
+        {
+            "name": "The Trial of the Mighty Foe",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Ethereal Stone:30|)}"
+        },
+        {
+            "name": "Trial of Dah Hesho",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:33|)}"
+        },
+        {
+            "name": "Trail of Soh Kofi",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)|  AND {OptOne(|Ethereal Stone:35|)}"
+        },
+        {
+            "name": "Trial of Ke'nai Shakah",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:38|)}"
+        },
+        {
+            "name": "Trial of Muwo Jeem",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:41|)}"
+        },
+        {
+            "name": "Trial of Tutsuwa Nima",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:45|)}"
+        },
+        {
+            "name": "Trial of Pumaag Nitae",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:47|)}"
+        },
+        {
+            "name": "Trial of Noya Neha",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:50|)}"
+        },
+        {
+            "name": "Trial of Shoqa Tatone",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:53|)}"
+        },
+        {
+            "region": "Post Destroy Yiga",
+            "name": "Trial of Sasa Kai",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:58|)}"
+        },
+        {
+            "region": "Post Destroy Yiga",
+            "name": "Trial of Goma Asaagh",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:61|)}"
+        },
+        {
+            "region": "Post Destroy Yiga",
+            "name": "Trial of Sass Ko'sah",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:65|)}"
+        },
+        {
+            "name": "Trial of Chaas Qeta",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Monk Maz Koshia|)} AND |Trial of the Ancients (Done)| AND {OptOne(|Ethereal Stone:139|)}"
+        },
+        {
+            "name": "Search Party for Parts",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Gathering the Facts",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "The Eye That Sees Far",
+            "region": "Post Future",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Korok:99|)}"
+        },
+        {
+            "name": "Let's Dance",
+            "region": "Post Future",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Korok:93|)}"
+        },
+        {
+            "name": "A Secret in Song",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Right Under our Noses",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "No Extreme Too Extreme",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Searching Eventide Island",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Terrako's Return",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptAll(|5 Terrako Components:5| AND |4 Terrako Components| AND |3 Terrako Components:4| AND |2 Terrako Components:4| AND |1 Terrako Component|)}",
+            "place_item": [
+                "Terrako's Return (Done)"
+            ]
+        },
+        {
+            "name": "Terrako, Empowered",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Testing... Testing... One..., Two...",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Learning from the Best",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Preserving for Posterity",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Unrelenting Power",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "region": "Post Future",
+            "name": "Fragmented Memories",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Tough as Nails",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Tougher than Nails",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Slightly Less Tougher than Nails...",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Made with Love",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "To Brighten Her Day",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)|"
+        },
+        {
+            "name": "Terrako, Enlightened",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Terrako|)} and |Terrako's Return (Done)| AND {OptOne(|Ethereal Stone:157|)}"
+        },
+        {
+            "name": "Pursuing Ancient Power",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Slumbering Malice",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Beastly Malice",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Nocturnal Life Force",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Explosive Life Force",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Teeming Life Force",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Otherworldly Malice",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)| AND {OptOne(|Ethereal Stone:160|)}"
+        },
+        {
+            "name": "Hardhearted Malice",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Pursuing Supreme Power",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Hidden Life Force",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Calamity Ganon|)} AND |Versus Calamity Ganon (Done)|"
+        },
+        {
+            "name": "Inner Power",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Inner Knowing",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Inner Protection",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "region": "Post Plateau",
+            "name": "Roast and Relaxation",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Chilly Path to a Hot Bath",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "A Light in the Dark",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "The Finest Tailor in the Land",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Time for an Upgrade",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Blessing of the Great Fairies",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "A Read on the Enemy",
+            "region": "Post Besieged",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Eager Learners in Hateno Village",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Hyrule Institute of Tactics Research",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "It Takes Two",
+            "region": "Post Step",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)} AND {OptOne(|Korok:66|)}"
+        },
+        {
+            "name": "Master Monster Roasts",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Expert Cooking Lesson",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "The Research of Rods",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Painter's Pilgrimage",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "Peace Offering for Hyrule",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "The Lonely Goddess",
+            "region": "Post Future",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve All Allies|)} AND {OptOne(|Korok:98|)}"
+        },
+        {
+            "name": "Explosive Endeavors",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "name": "Strange and Unusual Monsters",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "region": "Post Akkala",
+            "name": "Shocking Fear",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "name": "Zappy 'n' Bouncy",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "name": "A Stasis on Research",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "region": "Post Future",
+            "name": "There Must Be Rice",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "name": "Keep a Cool Head",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "region": "Post Future",
+            "name": "Personal Distractions",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Runes|)}"
+        },
+        {
+            "name": "Regulating the Reservoir",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Divine Beasts|)} AND {OptOne(|Vah Ruta|)}"
+        },
+        {
+            "name": "Surveying the Volcano",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Divine Beasts|)} AND {OptOne(|Vah Rudania|)}"
+        },
+        {
+            "name": "Revitalize Those in the Skies",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Divine Beasts|)} AND {OptOne(|Vah Medoh|)}"
+        },
+        {
+            "name": "Patrolling the Desert",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Divine Beasts|)} AND {OptOne(|Vah Naboris|)}"
+        },
+        {
+            "name": "Brilliance for the Boutique",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Gotta Have a Sign",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)} AND {OptOne(|Ethereal Stone:1|)}"
+        },
+        {
+            "name": "Shop-Quick Store",
+            "category": [
+                "Lanayru Quests"
+            ],
+            "requires": "|Urbosa the Gerudo Chief (Done)| AND |Revali the Rito Warrior (Done)| AND |Mipha the Zora Princess (Done)| AND |Daruk the Goron Hero (Done)| AND {OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Pumpkin Burglars",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Wanted: Shop Assistant",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "An End to Fighting",
+            "region": "Post Mipha",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Wedding Worry",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "On the Hook",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Swanked-Up Stable",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Help Them on Their Way",
+            "region": "Post Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Curry Connoisseur",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)} AND {OptOne(|Material|)}"
+        },
+        {
+            "name": "Anything but Bugs",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Hoping for Heat Relief",
+            "region": "Post Daruk",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Brawny Blacksmiths",
+            "region": "Post Road Ancient Lab",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Entrance Test",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "(|Urbosa the Gerudo Chief (Done)| OR |Revali the Rito Warrior (Done)| OR |Mipha the Zora Princess (Done)| OR |Daruk the Goron Hero (Done)|)"
+        },
+        {
+            "name": "Relief for Soldier Stress",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "(|Urbosa the Gerudo Chief (Done)| OR |Revali the Rito Warrior (Done)| OR |Mipha the Zora Princess (Done)| OR |Daruk the Goron Hero (Done)|) AND {OptOne(|Unlock Services|)}"
+        },
+        {
+            "region": "Post Daruk",
+            "name": "Dyeing to Make Contact",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Unlock Services|)}"
+        },
+        {
+            "name": "Great Bridge Repairs",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "What Bad Weather?",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "The Lazy Guards",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)} AND {OptOne(|Ethereal Stone:124|)}"
+        },
+        {
+            "name": "Floria Bridge Protection",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Lighting the Way",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Rebuilding Akkala Bridge",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "The Marita Exchange",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Goods on the Move in Hyrule",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)} AND {OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Quarry Recruiting",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Shiny New Tools",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Off to the Hot Springs",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)} AND {OptOne(|Improve All Allies|)}"
+        },
+        {
+            "region": "Post Relentless",
+            "name": "A Monumental Undertaking",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Tales of the Molten Forge",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "The Legendary Blacksmith",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)} AND {OptOne(|Ethereal Stone:95|)}"
+        },
+        {
+            "name": "Caring for the Statues",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Secret of the Rito Artisans",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "From Rusty to Trusty",
+            "region": "Post Korok Forest",
+            "category": [
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Better Rust-Busting",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Road to Rust Research",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Tactics for Small Foes",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "The Instructor's Problem",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Facing Powerful Enemies",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "An Eye for Weapons",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)} AND {OptOne(|Improve All Allies|)}"
+        },
+        {
+            "name": "A Sparkling Solution",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Custom-Made Color",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "A Color Seen in a Dream",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Improve Services|)}"
+        },
+        {
+            "name": "Fang for Your Buck",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)} AND {OptOne(|Cooking|)}"
+        },
+        {
+            "name": "A Rumor about Skull Lake",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)}"
+        },
+        {
+            "name": "Cold Desert Nights",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)}"
+        },
+        {
+            "name": "Visiting a Special Shop",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)}"
+        },
+        {
+            "name": "Research of a Lifetime",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)}"
+        },
+        {
+            "name": "The Master Chef",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)}"
+        },
+        {
+            "name": "A Painter's Inspiration",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Material|)}"
+        },
+        {
+            "name": "Hot Meals in a Pot",
+            "region": "Post Battle Field",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Stumped by Shrooms",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "The Pumpkin Hunt",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "A Balm for the Soul",
+            "region": "Post Destroy Yiga",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Needs a Splash of...",
+            "region": "Post Plateau",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Really New Recipe...",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Relieving Meat Fatigue",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Just Like Mama Made",
+            "region": "Post Courage",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "A Feast of Greens",
+            "region": "Post Battle Field",
+            "category": [
+                "Chapter 1 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Fine Bites from Lurelin Village",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Bounty of the Sea",
+            "region": "Post Water Fire",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "A Bird in the Hand",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Bee Very Careful",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Extreme Foraging",
+            "region": "Post United",
+            "category": [
+                "Post Forest",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Afternoon Tea at Hyrule Castle",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Mystery Meal for the Merchant",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Unexpected Discovery",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Cooking for the Common Cold",
+            "region": "Yiga Attacks",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Superb Fish Dish",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}",
+            "region": "Post Mipha"
+        },
+        {
+            "name": "A Birthday Treat",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "(|Urbosa the Gerudo Chief (Done)| OR |Revali the Rito Warrior (Done)| OR |Mipha the Zora Princess (Done)| OR |Daruk the Goron Hero (Done)|) AND {OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Who's Shocked By Lightning?",
+            "region": "Post Urbosa",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Extreme Survival Cuisine",
+            "region": "Post Calamity",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Best-Ever Batter",
+            "region": "Post Revali",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "The Blessing of Deya Lake",
+            "region": "Post Air Lightning",
+            "category": [
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "The Legendary Recipe",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Cooking|)}"
+        },
+        {
+            "name": "More Rattle, More Dance!",
+            "region": "Post Korok Forest",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:2|)}"
+        },
+        {
+            "region": "Post Korok Forest",
+            "name": "The Korok Ballet",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:4|)}"
+        },
+        {
+            "name": "Good Cheer",
+            "region": "Post Besieged",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:9|)}"
+        },
+        {
+            "name": "Parade for the Champions",
+            "region": "Post Air Lightning",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 5 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:31|)}"
+        },
+        {
+            "name": "Forest Minuet",
+            "region": "Post Future",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:112|)}"
+        },
+        {
+            "name": "Birthday Waltz",
+            "region": "Post Relentless",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:46|)}"
+        },
+        {
+            "name": "The Sweetest Salsa",
+            "region": "Post Step",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:90|)}"
+        },
+        {
+            "name": "Gerudo Canion Festival",
+            "region": "Post Future",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:140|)}"
+        },
+        {
+            "name": "Fantastic Flamenco",
+            "region": "Post Future",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:175|)}"
+        },
+        {
+            "name": "A Most Peculiar Korok",
+            "region": "Post Besieged",
+            "category": [
+                "Korok rdm",
+                "Post Forest",
+                "Chapter 3 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)} AND {OptOne(|Korok:14|)}"
+        },
+        {
+            "name": "The Treasure Detector",
+            "region": "Post Relentless",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)}"
+        },
+        {
+            "name": "Upgrading the Detector",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Battle Support|)}"
+        },
+        {
+            "name": "Needed: Researchers!",
+            "category": [
+                "Chapter 2 - Quests"
+            ],
+            "requires": "(|Urbosa the Gerudo Chief (Done)| OR |Revali the Rito Warrior (Done)| OR |Mipha the Zora Princess (Done)| OR |Daruk the Goron Hero (Done)|) AND {OptOne(|Sheikah Sensor|)}"
+        },
+        {
+            "name": "Feed the Research",
+            "region": "Post Akkala",
+            "category": [
+                "Post Forest",
+                "Chapter 4 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Sensor|)}"
+        },
+        {
+            "name": "Sweeten the Research",
+            "region": "Post Step",
+            "category": [
+                "Post Forest",
+                "Chapter 6 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Sensor|)} AND {OptOne(|Cooking|)}"
+        },
+        {
+            "name": "Fuel Up with Plants",
+            "region": "Post Future",
+            "category": [
+                "Post Forest",
+                "Post Future",
+                "Chapter 7 - Quests"
+            ],
+            "requires": "{OptOne(|Sheikah Sensor|)}"
+        },
+        {
+            "name": "The Hope of all Hyrule",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Central Hyrule",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Hebra",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Akkala",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Eldin",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Lanayru",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Necluda",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Faron",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "The Hope of Gerudo",
+            "region":"Post Future",
+            "category": [
+                "Contribution",
+                "Post Forest",
+                "Post Future"
+            ],
+            "requires": "{OptAll(|@Quests Unlock| AND |@Characters| AND |@Collectibles| AND |@Divine Beasts|)}"
+        },
+        {
+            "name": "Free Forest",
+            "category": [
+                "Goal"
+            ],
+            "region": "Goal 1",
+            "requires": "|Goal 1|",
+            "victory": true
+        },
+        {
+            "name": "Defeat Ganon",
+            "category": [
+                "Goal"
+            ],
+            "region": "Goal 2",
+            "requires": "|Goal 2|",
+            "victory": true
+        },
+        {
+            "name": "Hateno Fort siege",
+            "category": [
+                "Goal"
+            ],
+            "region": "Goal 3",
+            "requires": "|Goal 3| ",
+            "victory": true
+        }
+    ]
+}
