@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Goal 1",
+        "copy_location":"Freeing Korok Forest",
+        "visible":false
+    },
+    {
+        "name":"Goal 2",
+        "copy_location":"The Future of Hyrule",
+        "visible":false
+    },
+    {
+        "name":"Goal 3",
+        "copy_location":"The Siege of Fort Hateno",
+        "visible":false
+    }
+]
